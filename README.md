@@ -1,0 +1,2 @@
+# azureLaneSkinViewer
+碧蓝航线皮肤鉴赏插件，适用于deepseekHarness
